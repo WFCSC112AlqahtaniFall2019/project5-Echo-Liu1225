@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Echo/CLionProjects/project5-Echo-Liu1225-Liu1225/Card.h
+string
+-
+
+/Users/Echo/CLionProjects/project5-Echo-Liu1225-Liu1225/Deck.cpp
+Deck.h
+/Users/Echo/CLionProjects/project5-Echo-Liu1225-Liu1225/Deck.h
+string
+-
+iostream
+-
+
+/Users/Echo/CLionProjects/project5-Echo-Liu1225-Liu1225/Deck.h
+Card.h
+/Users/Echo/CLionProjects/project5-Echo-Liu1225-Liu1225/Card.h
+string
+-
+
+/Users/Echo/CLionProjects/project5-Echo-Liu1225-Liu1225/main.cpp
+iostream
+-
+string
+-
+cctype
+-
+Card.h
+/Users/Echo/CLionProjects/project5-Echo-Liu1225-Liu1225/Card.h
+Deck.h
+/Users/Echo/CLionProjects/project5-Echo-Liu1225-Liu1225/Deck.h
+
